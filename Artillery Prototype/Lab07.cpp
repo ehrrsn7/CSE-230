@@ -66,6 +66,7 @@ int main() {
 
     // drag coefficients of air at different given speeds:
     // Mach	            Drag Coefficient
+    // std::unordered_map<int, bool> gravityValues = {
     // 0.300	        0.1629
     // 0.500	        0.1659
     // 0.700	        0.2031
